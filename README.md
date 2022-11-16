@@ -6,4 +6,4 @@ we can control major things in the field by monitoring the parameters like moist
 we can give instructions by voice commands
 we can adjust the sensitivity and type of fields by voice commands
 it will also sens the trespassing and give alarm in field and mobile
-sica will be a good friend for those who love to do planting., who passionate in agriculture but have less time
+sica will be a good friend for those who love to do planting., who passionate in agriculture but have less time.
